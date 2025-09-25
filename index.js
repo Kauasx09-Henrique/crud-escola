@@ -13,3 +13,4 @@ app.listen(3000, () => {
 })
 
 const alunosRouter = require('./routes/alunos')
+const professoresRouter = require('./routes/professores')
